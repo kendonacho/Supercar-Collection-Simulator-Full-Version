@@ -239,3 +239,6 @@ This repository serves as the official landing page for Supercar Collection Simu
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Supercar Collection Simulator today!**
+
+---
+**Last updated:** 2026-09-10 12:06:27 UTC
